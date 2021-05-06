@@ -1,4 +1,12 @@
-### Hi there 👋
+### hi there!
+my name is Max, and this is my github! i've learned mostly Python but have dabbled a little in some other languages.
+hoping to learn javascript/node and java at some point in the future
+
+### how to reach me
+you can email me at bigstacc77@gmail.com
+
+### projects
+i'm not entirely sure if i have anything i'm working on besides my [website](bigstacc77.github.io), which i'll continue to update when i have something to write about.
 
 <!--
 **bigstacc77/bigstacc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
