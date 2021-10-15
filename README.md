@@ -3,7 +3,7 @@ my name is Max, and this is my github! i've learned mostly Python but have dabbl
 hoping to learn javascript/node and java at some point in the future
 
 ## how to reach me
-you can email me at bigstacc77@gmail.com
+you can email me at max@bentley.net
 
 ## projects
 i'm not entirely sure if i have anything i'm working on besides my [website](bigstacc77.github.io), which i'll continue to update when i have something to write about.
