@@ -6,7 +6,7 @@ hoping to learn javascript/node and java at some point in the future
 you can email me at max@bentley.net
 
 ## projects
-i'm not entirely sure if i have anything i'm working on besides my [website](bigstacc77.github.io), which i'll continue to update when i have something to write about.
+none really
 
 <!--
 **bigstacc77/bigstacc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
