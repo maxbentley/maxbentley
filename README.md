@@ -1,6 +1,5 @@
 ## hi there!
-my name is Max, and this is my github! i've learned mostly Python but have dabbled a little in some other languages.
-hoping to learn javascript/node and java at some point in the future
+my name is Max, and this is my github! i am very much a beginner to programming - i know a little bit of Python and basically nothing else.
 
 ## how to reach me
 you can email me at max@bentley.net
