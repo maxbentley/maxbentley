@@ -1,5 +1,7 @@
 ## hi there!
 my name is Max, and this is my github! i am very much a beginner to programming - i know a little bit of Python and basically nothing else.
+currently taking AP CS at LASA.
+
 
 ## how to reach me
 you can email me at max@bentley.net
