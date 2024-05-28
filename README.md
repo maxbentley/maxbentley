@@ -1,8 +1,9 @@
 ## hi there!
-my name is Max, and this is my github! i am very much a beginner to programming. the biggest (and only) project I've done so far has been a [web scraper in Python](https://github.com/maxbentley/2020-2021-college-hoops-season-no-threes) that I made in early 2021 when I was into college basketball that took every game and found whether or not the winning team would have won had every three-pointer been a two-pointer.
+my name is Max, and this is my github! the biggest (and only) project I've done so far has been a [web scraper in Python](https://github.com/maxbentley/2020-2021-college-hoops-season-no-threes) that I made in early 2021 when I was into college basketball that took every game and found whether or not the winning team would have won had every three-pointer been a two-pointer.
 my skills:
-- python (basic)
-- java (also basic)
+- python
+- java
+- c++
 
 ## how to reach me
 you can email me at max@bentley.net
