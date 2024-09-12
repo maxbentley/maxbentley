@@ -1,7 +1,7 @@
 ## hi there!
 my name is Max (he/him), and this is my github! the biggest (and only) project I've done so far has been a [web scraper in Python](https://github.com/maxbentley/2020-2021-college-hoops-season-no-threes) that I made in early 2021 when I was into college basketball that took every game and found whether or not the winning team would have won had every three-pointer been a two-pointer.
 
-i'm currently a senior at LASA in Austin, Texas, and am taking the course Data Science Fundamentals, which is a class in Bayesian statistics that involves building models with Python. you can check out the projects that I did for that class [here](https://github.com/maxbentley/datasciencefund)
+i'm currently a senior at LASA in Austin, Texas, and am taking the course Data Science Fundamentals, which is a class in Bayesian statistics that involves building models with Python. you can check out the projects that I've done for that class [here](https://github.com/maxbentley/datasciencefund).
 
 my skills:
 - python
